@@ -1,2 +1,4 @@
-.vccode
+.vscode
 /output
+output/
+output
